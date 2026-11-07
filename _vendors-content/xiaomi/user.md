@@ -1,3 +1,5 @@
+12345678
+12345678
 ---
 manufacturer: 
     - xiaomi
